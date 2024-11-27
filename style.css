@@ -1,0 +1,14 @@
+#random_button {
+  font-size: large;
+  font-weight: 700;
+  width: 350px;
+  color: rgb(68, 68, 65);
+  background-color: rgb(233, 224, 241);
+  border: 3px solid rgb(39, 39, 38);
+  padding: 10px;
+  transition: ease-in-out 0.3s;
+  cursor: pointer;
+}
+#random_button:hover {
+  scale: 0.98;
+}
